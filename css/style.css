@@ -59,6 +59,8 @@ p {
 }
 .card{
     width: 100%;
+    box-shadow: whitesmoke;
+    border: #303841;
 }
 .row{
     padding-top: 30px;
@@ -87,4 +89,5 @@ p {
     font-size: 20px;
     background-color: #303841;
     height: 50px;
+    margin-bottom: auto;
 }
