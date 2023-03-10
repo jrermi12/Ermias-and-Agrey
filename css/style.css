@@ -89,6 +89,7 @@ p {
     font-size: 20px;
     background-color: #303841;
     height: 50px;
+    margin-bottom: auto;
 }
 
 .contact {
